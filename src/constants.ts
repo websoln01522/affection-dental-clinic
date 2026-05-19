@@ -160,19 +160,19 @@ export const DOCTORS = [
 
 export const GALLERY_IMAGES = [
   {
-    url: "/src/assets/images/modern_reception_1779179692142.png",
+    url: "/images/modern_reception_1779179692142.png",
     title: "Modern Reception"
   },
   {
-    url: "/src/assets/images/treatment_room_1779179711797.png",
+    url: "/images/treatment_room_1779179711797.png",
     title: "Advanced Treatment Room"
   },
   {
-    url: "/src/assets/images/sterilization_area_1779179728044.png",
+    url: "/images/sterilization_area_1779179728044.png",
     title: "Sterilized Equipment"
   },
   {
-    url: "/src/assets/images/kids_dental_1779179746052.png",
+    url: "/images/kids_dental_1779179746052.png",
     title: "Kids Dental Area"
   }
 ];

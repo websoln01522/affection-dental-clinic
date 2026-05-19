@@ -199,7 +199,7 @@ export default function App() {
             >
               <div className="relative z-10 rounded-[2.5rem] overflow-hidden shadow-2xl">
                 <img 
-                  src="/src/assets/images/hero_dentist_1779179764899.png" 
+                  src="/images/hero_dentist_1779179764899.png" 
                   alt="Modern Dental Clinic" 
                   className="w-full h-auto object-cover"
                 />
@@ -257,7 +257,7 @@ export default function App() {
             <motion.div {...staggerContainer} className="grid grid-cols-2 gap-4">
               <div className="space-y-4 pt-8">
                 <div className="rounded-2xl overflow-hidden shadow-lg h-48 sm:h-64">
-                   <img src="/src/assets/images/modern_reception_1779179692142.png" alt="Clinic Interior" className="w-full h-full object-cover" />
+                   <img src="/images/modern_reception_1779179692142.png" alt="Clinic Interior" className="w-full h-full object-cover" />
                 </div>
                 <div className="bg-primary-600 rounded-2xl p-6 text-white shadow-xl">
                   <p className="text-4xl font-bold mb-1">98%</p>
@@ -270,7 +270,7 @@ export default function App() {
                   <p className="text-sm font-medium opacity-90">Emergency Support</p>
                 </div>
                 <div className="rounded-2xl overflow-hidden shadow-lg h-48 sm:h-64">
-                   <img src="/src/assets/images/sterilization_area_1779179728044.png" alt="Equipment" className="w-full h-full object-cover" />
+                   <img src="/images/sterilization_area_1779179728044.png" alt="Equipment" className="w-full h-full object-cover" />
                 </div>
               </div>
             </motion.div>
@@ -432,7 +432,7 @@ export default function App() {
               >
                 <div className="w-48 h-48 rounded-2xl overflow-hidden bg-white shadow-inner flex-shrink-0">
                   <img 
-                    src={i === 0 ? "/src/assets/images/doctor_portrait_1_1779179802895.png" : "/src/assets/images/doctor_portrait_2_1779179819848.png"} 
+                    src={i === 0 ? "/images/doctor_portrait_1_1779179802895.png" : "/images/doctor_portrait_2_1779179819848.png"} 
                     alt={doc.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
