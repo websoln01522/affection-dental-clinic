@@ -1,0 +1,8 @@
+{
+  "name": "Affection Dental Care",
+  "description": "Premium modern dental clinic in Vadodara providing expert oral healthcare with a gentle touch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
